@@ -1,0 +1,1 @@
+This file helps to work with GIT
